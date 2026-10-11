@@ -1,0 +1,14 @@
+{
+  "name": "JUXO PS Mini Arcade",
+  "short_name": "JUXO PS",
+  "description": "Small games. Big moments. No fuss.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08090d",
+  "theme_color": "#08090d",
+  "orientation": "portrait",
+  "icons": [
+    {"src":"assets/juxo-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
