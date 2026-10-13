@@ -10,10 +10,9 @@
   "orientation": "any",
   "icons": [
     {
-      "src": "assets/juxo-icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
+      "src":"https://i.postimg.cc/k49Q7bcz/juxo-icon.png",
+      "sizes":"512x512",
+      "type":"image/png",
+      "purpose":"any"}
   ]
 }
